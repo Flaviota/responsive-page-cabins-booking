@@ -1,10 +1,10 @@
-# Responsive Yoga Class Website
-### Yoga Class Website 🧘
+# Responsive Cabins Booking Website
+### Cabins Booking Website 🏕️
 
-- Responsive Yoga Class Page Using HTML, CSS and JavaScript.
+- Responsive Cabins Booking Page using HTML, CSS and JavaScript
 - Fully responsive layout.
 - Contains animations when scrolling.
-- Based on tones purple. 
+- Based on beige. 
 
 
 ![Screenshot of the  BYD Website](assets/banner_photo.png)
